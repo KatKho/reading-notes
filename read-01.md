@@ -13,6 +13,6 @@
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
 > - asterisks (*)
 6. How do you create a link with Markdown?
-> - [name of the link](place link here)
+> - []() name/description goes inside first brackets and the actual link goes inside parentheses
 7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 > -  dashes (-), asterisks (*), or plus signs (+)
