@@ -9,7 +9,7 @@ fatigue), and the ability to choose from a healthy selection of extensions avail
 > 2. ls
 > - lists files or directories
 > 3. cd
-> changes directory
+> - changes directory
 > 4. mkdir
 > - creates a directory
 > 5. touch
