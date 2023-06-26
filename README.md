@@ -1,6 +1,8 @@
 # reading-notes
 My reading notes repository
 
+[The Coder's Computer](read-02.md)
+
 ## Lab 01b - Learning Markdown
 
 **Growth Mindset is known as the ability to develop and improve your skills, also it is the opposite of a fixed mindset.**
@@ -11,7 +13,7 @@ My reading notes repository
 
 ### My introduction 
 
-*My name is Ekaterina Khoroshilova, I also go by Kat. I've lived in Seattle for the past 3 years.*
+*My name is Ekaterina Khoroshilova, I also go by Kat. I've lived in Seattle for the past 3 years. I'm looking forward to becoming a software developer!*
 
 Here is a link to my GitHub:
 
