@@ -15,4 +15,4 @@ My reading notes repository
 
 * Here is a link to my GitHub:
 
-[GitHub link](https://github.com/KatyaKho)
+* [GitHub link](https://github.com/KatyaKho)
