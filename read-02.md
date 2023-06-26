@@ -22,6 +22,6 @@ fatigue), and the ability to choose from a healthy selection of extensions avail
 > 3. touch new-project/newfile.md
 > - creates a new file named 'newfile' inside the new-project directory
 > 4. cd ..
-> - goes to as parental directory (up)
+> - goes to a parental directory (up)
 > 5. ls projects/new-project
 > - lists files and directories inside the 'new-project' directory
