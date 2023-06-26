@@ -1,5 +1,5 @@
 # reading-notes
-My reading notes repository
+**My reading notes repository:**
 
 - [Learning Markdown](read-01.md)
 - [The Coder's Computer](read-02.md)
