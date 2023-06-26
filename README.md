@@ -1,14 +1,17 @@
 # reading-notes
 My reading notes repository
 
-## My awesome list
+## Lab 01b - Learning Markdown
 
-* Item 1
-  ![Cat Picture](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1400/MTk2NzY3MjA5ODc0MjY5ODI2/top-10-cutest-cat-photos-of-all-time.webp)
-* Item 2
+** Growth Mindset is known as the ability to develop and improve your skills, also it is the opposite of a fixed mindset. **
 
-Here is some text to go with the code.  
+* Don't give up!
+* Learn to take criticism.
+* See the success of others as inspiration.
 
-## Table of Contents
+## My introduction 
 
-* [Class 01 Notes](./class-01.md)
+* My name is Ekaterina Khoroshilova, I also go by Kat. I've lived in Seattle for the past 3 years. *
+* Here is a link to my GitHub
+
+* [GitHub link](https://github.com/KatyaKho)
