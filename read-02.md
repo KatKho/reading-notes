@@ -18,7 +18,7 @@ fatigue), and the ability to choose from a healthy selection of extensions avail
 > 1. cd projects
 > - changes the directory to directory 'projects'
 > 2. mkdir new-project
-> - creates a new directory named "new-project'
+> - creates a new directory named 'new-project'
 > 3. touch new-project/newfile.md
 > - creates a new file named 'newfile' inside the new-project directory
 > 4. cd ..
