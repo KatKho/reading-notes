@@ -1,9 +1,10 @@
 # reading-notes
 My reading notes repository
 
+[Learning Markdown](read-01.md)
 [The Coder's Computer](read-02.md)
 
-## Lab 01b - Learning Markdown
+## Growth Mindset
 
 **Growth Mindset is known as the ability to develop and improve your skills, also it is the opposite of a fixed mindset.**
 
