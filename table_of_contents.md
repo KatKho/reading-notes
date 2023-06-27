@@ -1,0 +1,27 @@
+# Code 102 Reading Notes
+- [Learning Markdown](read-01.md)
+- [The Coder's Computer](read-02.md)
+- [Class 03](class-03.md)
+- [Class 04](class-04.md)
+- [Class 05](class-05.md)
+- [Class 06](class-06.md)
+- [Class 07](class-07.md)
+- [Class 08](class-08.md)
+
+# Code 201 Reading Notes
+- [Class 01]()
+- [Class 02]()
+- [Class 03]()
+- [Class 04]()
+- [Class 05]()
+- [Class 06]()
+- [Class 07]()
+- [Class 08]()
+- [Class 09]()
+- [Class 10]()
+- [Class 11]()
+- [Class 12]()
+- [Class 13]()
+- [Class 14]()
+- [Class 15]()
+
