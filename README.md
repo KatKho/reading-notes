@@ -16,7 +16,7 @@ Here is a link to my GitHub:
 - [Learning Markdown](102/read-01.md)
 - [The Coder's Computer](102/read-02.md)
 - [Revisions and the Cloud](102/class-03.md)
-- [Class 04](102/class-04.md)
+- [Structure web pages with HTML](102/class-04.md)
 - [Class 05](102/class-05.md)
 - [Class 06](102/class-06.md)
 - [Class 07](102/class-07.md)
