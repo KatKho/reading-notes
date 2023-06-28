@@ -9,3 +9,4 @@
 4. What is the command to take a snapshot of your changed files?
    > git commit -m "your changes"
 5. What is the command to send your changed files to Github?
+   >git push origin main
