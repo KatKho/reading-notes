@@ -20,7 +20,7 @@ Here is a link to my GitHub:
 - [Design web pages with CSS](102/class-05.md)
 - [Dynamic web pages with JavaScript](102/class-06.md)
 - [Programming with JavaScript](102/class-07.md)
-- [Class 08](102/class-08.md)
+- [Operators and Loops](102/class-08.md)
 
 ## Code 201 Reading Notes
 - [Class 01](201/class-01.md)
