@@ -12,7 +12,7 @@ Here is a link to my GitHub:
 
 # Table of Contents
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 - [Learning Markdown](102/read-01.md)
 - [The Coder's Computer](102/read-02.md)
 - [Revisions and the Cloud](102/class-03.md)
@@ -22,7 +22,7 @@ Here is a link to my GitHub:
 - [Programming with JavaScript](102/class-07.md)
 - [Operators and Loops](102/class-08.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 - [Class 01](201/class-01.md)
 - [Class 02](201/class-02.md)
 - [Class 03](201/class-03.md)
@@ -38,3 +38,7 @@ Here is a link to my GitHub:
 - [Class 13](201/class-13.md)
 - [Class 14](201/class-14.md)
 - [Class 15](201/class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
