@@ -20,15 +20,15 @@ Understanding these topics is essential in web development as they form the buil
     
     Source: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
 
-1. How can you find images to add to a Website?
+3. How can you find images to add to a Website?
    - To choose an image, go to Google Images and search for something suitable.
    
    Source: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
 
-2. How do you create a String vs a Number in JavaScript?
+4. How do you create a String vs a Number in JavaScript?
    - We use a similar structure to create both, but when we create a String we enclose the value in single or double quote marks. 
   
-3. What is a Variable and why are they important in JavaScript?
+5. What is a Variable and why are they important in JavaScript?
    - Variable - is a name we give to a certain data type value to store it. 
 
 
