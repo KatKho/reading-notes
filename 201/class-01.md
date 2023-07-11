@@ -70,8 +70,8 @@ Understanding these topics is essential in web development as they form the buil
   
 ## Semantics.
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
-   - The <h1> element should be used for top-level headings because it carries semantic meaning. 
+1. Why should you use an h1 element over a span element to display a top level heading?
+   - The h1 element should be used for top-level headings because it carries semantic meaning. 
 2. What are the benefits of using semantic tags in our HTML?
    - It makes the code more readable for humans. 
   
