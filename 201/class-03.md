@@ -43,4 +43,8 @@ Understanding HTML elements and CSS properties like ordered and unordered lists,
 6. Give an example of when a Loop is useful in JavaScript.
    - Whenever you need to repeat the same thing over and over again.
 
+## Resources
+
+I used the provided reading material and chatGPT.
+
 ## Things I want to know more about
