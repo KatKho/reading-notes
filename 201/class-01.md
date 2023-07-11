@@ -59,5 +59,28 @@ Understanding these topics is essential in web development as they form the buil
   
     Source: ChatGPT
 
+## Miscellaneous
+## How to start to design a Website.
+
+1. What is the first step to designing a Website?
+   - Create a plan.
+  
+2. What is the most important question to answer when designing a Website?
+    - Defining what you want to accomplish with it.
+  
+## Semantics.
+
+1. Why should you use an <h1> element over a <span> element to display a top level heading?
+   - The <h1> element should be used for top-level headings because it carries semantic meaning. 
+2. What are the benefits of using semantic tags in our HTML?
+   - It makes the code more readable for humans. 
+  
+## What is JavaScript?
+
+1. Describe 2 things that require JavaScript in the Browser?
+   - It brings an actual interaction mechanism, like uset input or buttons and also allows to store values. 
+2. How can you add JavaScript to an HTML document?
+   -  You can have internal, external and inline JS.
+
 ## Things I want to know more about
 Coming soon...
