@@ -18,7 +18,7 @@ Understanding JavaScript objects and the DOM is crucial for web development. The
 ## Introduction To The DOM
 
 1. What is the DOM?
-   The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.
+   - The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.
 2. Briefly describe the relationship between the DOM and JavaScript.
    - As an object-oriented representation of the web page, it can be modified with a scripting language such as JavaScript.
 
