@@ -36,7 +36,8 @@ Here is a link to my GitHub:
 - [Class 11](201/class-11.md)
 - [Class 12](201/class-12.md)
 - [Class 13](201/class-13.md)
-- [Class 14](201/class-14.md)
+- [Class 14 part 1](201/class-14.md)
+- [Class 14 part 2](201/class-14-2.md)
 - [Class 15](201/class-15.md)
 
 ## Code 301 - Intermediate Software Development
