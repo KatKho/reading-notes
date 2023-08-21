@@ -35,7 +35,7 @@ Understanding concepts like the HTTP protocol, REST architecture, and various HT
 3. Yelp API Docs. Did you get your API key?
    - yes
 4. The Movie DB API Docs. Did you get your API key?
-   -yes
+   - yes
 
 ## Things I want to know more about
 
