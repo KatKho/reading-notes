@@ -11,11 +11,10 @@ This topic offers insights into function invocation and execution in JavaScript,
 3. What does LIFO mean?
    - LIFO stands for "Last In, First Out," illustrating how the call stack operates with the most recent function being executed first.
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-   - 
-  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-  │   function   │     │   function   │     │   function   │
-  │     foo()    │     │     bar()    │     │     baz()    │
-  └──────────────┘     └──────────────┘     └──────────────┘
+   - ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+   - │   function   │     │   function   │     │   function   │
+   - │     foo()    │     │     bar()    │     │     baz()    │
+   - └──────────────┘     └──────────────┘     └──────────────┘
 
 5. What causes a Stack Overflow?
    - A Stack Overflow occurs when the call stack's capacity is exceeded due to excessive function nesting.
