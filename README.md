@@ -59,3 +59,4 @@ Here is a link to my GitHub:
   
 ## Code 401 - Advanced Software Development
 - [SQL Practice](401/SQL.md)
+- [Terminal Practice](401/Terminal.md)
