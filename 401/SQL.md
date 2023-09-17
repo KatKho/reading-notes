@@ -27,8 +27,8 @@ Modifying tables: ALTER TABLE.
 Querying data: Filter results with the WHERE clause.
 Joining tables: INNER JOIN and LEFT JOIN.
 
-- ![Lesson 1](../img/1.png)
-- ![Lesson 2](../img/2.png)
+- ![Lesson 1](./img/1.png)
+- ![Lesson 2](/img/2.png)
 - ![Lesson 3](../img/3.png)
 - ![Lesson 4](../img/4.png)
 - ![Lesson 5](../img/5.png)
