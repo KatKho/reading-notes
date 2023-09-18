@@ -61,3 +61,5 @@ Here is a link to my GitHub:
 - [SQL Practice](401/SQL.md)
 - [Terminal Practice](401/Terminal.md)
 - [The Growth Mindset](401/Mindset.md)
+- [Data Structures and Algorithms](401/DSA.md)
+- [Engineering Readings](401/Engineering-read.md)
