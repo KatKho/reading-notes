@@ -64,4 +64,5 @@ Here is a link to my GitHub:
 - [Data Structures and Algorithms](401/DSA.md)
 - [Engineering Readings](401/Engineering-read.md)
 - [Class 01](401/class-01.md)
+- [Class 02](401/class-02.md)
   
