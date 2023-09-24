@@ -69,4 +69,5 @@ Here is a link to my GitHub:
 - [Class 04](401/class-04.md)
 - [Class 06](401/class-06.md)
 - [Class 07](401/class-07.md)
+- [Class 08](401/class-08.md)
   
