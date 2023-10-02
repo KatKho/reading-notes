@@ -71,4 +71,5 @@ Here is a link to my GitHub:
 - [Class 07](401/class-07.md)
 - [Class 08](401/class-08.md)
 - [Class 11](401/class-11.md)
+- [Class 12](401/class-12.md)
   
