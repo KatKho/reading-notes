@@ -77,4 +77,5 @@ Here is a link to my GitHub:
 - [Class 17](401/class-17.md)
 - [Class 18](401/class-18.md)
 - [Class 19](401/class-19.md)
+- [Class 26](401/class-26.md)
   
