@@ -82,4 +82,5 @@ Here is a link to my GitHub:
 - [Class 28](401/class-28.md)
 - [Class 29](401/class-29.md)
 - [Class 31](401/class-31.md)
+- [Class 32](401/class-32.md)
   
