@@ -91,4 +91,5 @@ Here is a link to my GitHub:
 - [Class 39](401/class-39.md)
 - [Class 41](401/class-41.md)
 - [Class 42](401/Ethics-in-tech.md)
+- [Class 43](401/Open.md)
   

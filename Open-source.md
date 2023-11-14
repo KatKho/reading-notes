@@ -1,0 +1,3 @@
+# Open-source
+
+Open-source projects are collaborative endeavors where software code is made publicly accessible for anyone to view, modify, and distribute. Initially known as "free software," the movement, formalized by Richard Stallman in 1983, prioritized user freedoms, including the ability to work with the software in any needed way. However, "free software" often led to confusion with "free of cost," which led to the adoption of the term "open source." This model emphasizes a decentralized development approach, often resulting in software that is more affordable, adaptable, and enduring than proprietary alternatives. Open-source has grown beyond software, influencing various fields by applying its principles to other community and industry problems​.
